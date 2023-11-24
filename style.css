@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif; 
+   
+}
+.logo{
+    border-radius: 25%;
+}
+.logo1{
+    float: left;
+}
+.nav{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding-left:30px ;
+}
+h1{
+    padding-left: 18px;
+}
+header{
+    border-bottom: 3px solid hsl(310, 100%, 87%);
+}
+a{
+    text-decoration: none;
+} 
+body{
+
+font-size: 15px;
+
+}
+.day{
+float: left; 
+
+}
+
+
+.circle{
+     width: 320px;
+    height: 100px;
+    background-color: #4811AE;
+   border-radius: 50%;
+   color: #ab7aff;
+   margin-left: 270px;
+   margin-top: 50px;
+}
+h1{
+    font-size: 20px;
+    margin-left: 50px;
+margin-bottom: 30px;
+
+}
+td{
+    border: 3px dashed hsl(310, 100%, 87%);
+}
